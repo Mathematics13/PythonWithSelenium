@@ -1,0 +1,16 @@
+
+A)Create GitHub account
+1) github.com
+2)Signup
+3)Provide email and create strong password
+4)continue
+5)Unique username
+6)Verify your account
+7)Solve Puzzle to ensure not robot
+8)Code in that particular email id
+9)20-50 people work 
+10)Set Team management ,collaborative coding ,project management and continue
+
+B)Create Repository
+C)Install GitHub client git bash  on the system on your laptop
+D)Clone the repository from server to client
